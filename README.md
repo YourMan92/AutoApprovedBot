@@ -20,8 +20,8 @@ You Are Free To Use This Code In Any Of Your Projects, But You Must Include The 
 </p>
 
 <p align="center">
-<img src="https://img.shields.io/github/stars/PR0FESS0R-99/Auto-Approved-Bot?style=social" />
-<img src="https://img.shields.io/github/forks/PR0FESS0R-99/Auto-Approved-Bot?style=social" />
+<img src="https://img.shields.io/github/stars/YourMan92/AutoApprovedBot?style=social" />
+<img src="https://img.shields.io/github/forks/YourMan92/AutoApprovedBot?style=social" />
 </p>
 
 <p align="center">
