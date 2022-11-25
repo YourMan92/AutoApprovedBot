@@ -21,8 +21,8 @@
 # SOFTWARE.
 
 # Telegram Link : https://telegram.dog/Mo_Tech_Group
-# Repo Link : https://github.com/PR0FESS0R-99/Auto-Approved-Bot
-# License Link : https://github.com/PR0FESS0R-99/Auto-Approved-Bot/blob/Auto-Approved-Bot/LICENSE
+# Repo Link : https://github.com/YourMan92/AutoApprovedBot
+# License Link : https://github.com/YourMan92/AutoApprovedBot/blob/AutoApprovedBot/LICENSE
 
 from os import environ
 from pyrogram import Client, filters
